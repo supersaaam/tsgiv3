@@ -15,12 +15,3 @@
 		die('Connection failed: ' . $con->connect_error);
 	}
 ?>
-
-ysql://
-b88802b15e6949
-:
-8d7ede0b
-@
-us-cdbr-east-02.cleardb.com
-/
-heroku_8b68aad9c22988c?reconnect=true
